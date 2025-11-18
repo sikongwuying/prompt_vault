@@ -7,13 +7,11 @@
 ### Rules（开发规范）
 - **security_rule.md** - AWS Well-Architected 安全框架检查清单
 - **tech_rule_amplify.md** - Vue 3.0 + Amplify 技术栈规范
-- **tech_rule_bedrock_agentcore.md** - Bedrock AgentCore 智能体开发规范
 - **tech_rule_lambda_function.md** - Lambda 无服务器应用开发规范
 - **tech_rule_static_html.md** - 静态网站开发规范
 
 ### Specs（项目规格）
 - **合规新闻日报.md** - 安全合规新闻自动推送系统需求
-- **requirements_bedrock_agentcore.md** - IAM 策略生成智能代理需求
 - **frontend-requirement-en.md** - Streamlit 天气助手前端需求
 
 ## 🚀 使用方法
